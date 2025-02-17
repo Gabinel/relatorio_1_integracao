@@ -1,5 +1,7 @@
 # *Relatório: Introdução às Redes Industriais e Pirâmide da Automação*
 
+Gabriel Faria, Guilherme Camargo, Guilherme Kaneda, João Pedro, Thomas, Melina, Milena
+
 ## **1. Introdução às Redes Industriais**
 
 ### *1.1 Definição e Objetivo das Redes Industriais*
