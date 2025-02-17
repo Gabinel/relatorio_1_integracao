@@ -37,7 +37,6 @@ Elas desempenham um papel essencial na automação industrial, permitindo a *int
 ## **2. Pirâmide da Automação**
 
 ![piramide](image.png)
-![mes](mes.jpg)
 
 ### *2.1 Estrutura da Pirâmide da Automação*
 
@@ -69,6 +68,8 @@ A Pirâmide da Automação descreve a hierarquia de controle e gestão na indús
 - *Função:* Gestão empresarial e integração de recursos.
 - *Protocolos:* Web Services, REST API.
 - *Exemplo:* Ajuste automático de compras com base na produção.
+
+![mes](mes.jpg)
 
 ### *2.3 Evolução da Pirâmide e Indústria 4.0*
 
